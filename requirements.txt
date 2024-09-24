@@ -1,0 +1,6 @@
+requests==2.32.3
+warcio==1.7.4
+beautifulsoup4==4.12.3
+psycopg2-binary==2.9.9
+pandas==2.2.3
+pyarrow==17.0.0
